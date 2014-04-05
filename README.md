@@ -5,7 +5,7 @@ Public materials of Natural Computing Laboratory
 
 ----------
 
-Table of contents
+Table of Contents
 -----------------
 
 - [Materials](#materials)
