@@ -9,6 +9,7 @@ Table of Contents
 -----------------
 
 - [Materials](#materials)
+    - [ca_ea.aip](#ca_ea.aip)
     - [pso.evac](#psoevac)
 
 ----------
@@ -16,10 +17,20 @@ Table of Contents
 Materials
 ---------
 
+#### ca_ea.aip
+
+Paper
+> Tseng, H.-w., & Chen, Y.-p. (2015). Artistic Image Processing with Cellular Automata and Evolutionary Algorithms. In <i>Proceedings of 2015 IEEE Congress on Evolutionary Computation (CEC 2015)</i>.
+
+Repository
+> https://github.com/nclab/ca_ea.aip
+
+[Back to TOC](#table-of-contents)
+
 #### pso.evac
 
 Paper
-> Tsai, P.-C., Chen, C.-M., & Chen, Y.-p. (2014). PSO-Based Evacuation Simulation Framework. In <i>Proceedings of 2014 IEEE Congress on Evolutionary Computation (CEC 2014)</i>.
+> Tsai, P.-C., Chen, C.-M., & Chen, Y.-p. (2014). PSO-Based Evacuation Simulation Framework. In <i>Proceedings of 2014 IEEE Congress on Evolutionary Computation (CEC 2014)</i> (pp. 3030–3035). doi: 10.1109/CEC.2014.6900609.
 
 Repository
 > https://github.com/nclab/pso.evac
