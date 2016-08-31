@@ -9,6 +9,7 @@ Table of Contents
 -----------------
 
 - [Materials](#materials)
+    - [starcraft.asga](#starcraft.asga)
     - [ea.prover](#ea.prover)
     - [ca_ea.aip](#ca_ea.aip)
     - [pso.evac](#psoevac)
@@ -18,10 +19,20 @@ Table of Contents
 Materials
 ---------
 
+#### starcraft.asga
+
+Paper
+> Hsu, W.-L., & Chen, Y.-p. (2016). Learning to Select Actions in StarCraft with Genetic Algorithms. Submitted to <i>2016 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2016)</i>.
+
+Repository
+> https://github.com/nclab/starcraft.asga
+
+[Back to TOC](#table-of-contents)
+
 #### ea.prover
 
 Paper
-> Yang, L.-A., Liu, J.-P., Chen, C.-H., & Chen, Y.-p. (2016). Automatically Proving Mathematical Theorems with Evolutionary Algorithms and Proof Assistants. ([arXiv:1602.07455](http://arxiv.org/abs/1602.07455)). Accepted by <I>2016 IEEE Congress on Evolutionary Computation (CEC 2016), part of 2016 IEEE World Congress on Computational Intelligence (IEEE WCCI 2016)</I>.
+> Yang, L.-A., Liu, J.-P., Chen, C.-H., & Chen, Y.-p. (2016). Automatically Proving Mathematical Theorems with Evolutionary Algorithms and Proof Assistants. ([arXiv:1602.07455](http://arxiv.org/abs/1602.07455)). In <i>Proceedings of 2016 IEEE Congress on Evolutionary Computation (CEC 2016)</i> (pp. 4421–4428).
 
 Repository
 > https://github.com/nclab/ea.prover
@@ -31,7 +42,7 @@ Repository
 #### ca_ea.aip
 
 Paper
-> Tseng, H.-w., & Chen, Y.-p. (2015). Artistic Image Processing with Cellular Automata and Evolutionary Algorithms. In <i>Proceedings of 2015 IEEE Congress on Evolutionary Computation (CEC 2015)</i>.
+> Tseng, H.-w., & Chen, Y.-p. (2015). Artistic Image Processing with Cellular Automata and Evolutionary Algorithms. In <i>Proceedings of 2015 IEEE Congress on Evolutionary Computation (CEC 2015)</i> (pp. 2153–2159). doi: 10.1109/CEC.2015.7257150.
 
 Repository
 > https://github.com/nclab/ca_ea.aip
