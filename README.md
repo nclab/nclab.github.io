@@ -22,7 +22,7 @@ Materials
 #### starcraft.asga
 
 Paper
-> Hsu, W.-L., & Chen, Y.-p. (2016). Learning to Select Actions in StarCraft with Genetic Algorithms. Submitted to <i>2016 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2016)</i>.
+> Hsu, W.-L., & Chen, Y.-p. (2016). Learning to Select Actions in StarCraft with Genetic Algorithms. Accepted by <i>2016 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2016)</i>.
 
 Repository
 > https://github.com/nclab/starcraft.asga
