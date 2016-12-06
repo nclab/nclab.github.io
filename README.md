@@ -35,7 +35,7 @@ Videos mentioned in paper
 #### ea.prover
 
 Paper
-> Yang, L.-A., Liu, J.-P., Chen, C.-H., & Chen, Y.-p. (2016). Automatically Proving Mathematical Theorems with Evolutionary Algorithms and Proof Assistants. ([arXiv:1602.07455](http://arxiv.org/abs/1602.07455)). In <i>Proceedings of 2016 IEEE Congress on Evolutionary Computation (CEC 2016)</i> (pp. 4421–4428).
+> Yang, L.-A., Liu, J.-P., Chen, C.-H., & Chen, Y.-p. (2016). Automatically Proving Mathematical Theorems with Evolutionary Algorithms and Proof Assistants. In <i>Proceedings of 2016 IEEE Congress on Evolutionary Computation (CEC 2016), part of 2016 IEEE World Congress on Computational Intelligence (IEEE WCCI 2016)</i> (pp. 4421–4428). doi: 10.1109/CEC.2016.7744352. ([arXiv:1602.07455](http://arxiv.org/abs/1602.07455)).
 
 Repository
 > https://github.com/nclab/ea.prover
@@ -55,7 +55,7 @@ Repository
 #### pso.evac
 
 Paper
-> Tsai, P.-C., Chen, C.-M., & Chen, Y.-p. (2014). PSO-Based Evacuation Simulation Framework. In <i>Proceedings of 2014 IEEE Congress on Evolutionary Computation (CEC 2014)</i> (pp. 3030–3035). doi: 10.1109/CEC.2014.6900609.
+> Tsai, P.-C., Chen, C.-M., & Chen, Y.-p. (2014). PSO-Based Evacuation Simulation Framework. In <i>Proceedings of 2014 IEEE Congress on Evolutionary Computation (CEC 2014), part of 2014 IEEE World Congress on Computational Intelligence (IEEE WCCI 2014)</i> (pp. 3030–3035). doi: 10.1109/CEC.2014.6900609.
 
 Repository
 > https://github.com/nclab/pso.evac
