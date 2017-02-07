@@ -9,6 +9,7 @@ Table of Contents
 -----------------
 
 - [Materials](#materials)
+    - [proof.generator](#proof.generator)
     - [starcraft.asga](#starcraft.asga)
     - [ea.prover](#ea.prover)
     - [ca_ea.aip](#ca_ea.aip)
@@ -18,6 +19,16 @@ Table of Contents
 
 Materials
 ---------
+
+#### proof.generator
+
+Paper
+> Huang, S.-Y. & Chen, Y.-p. (2017). Proving Theorems by Using Evolutionary Search with Human Involvement. Submitted to <i>2017 IEEE Congress on Evolutionary Computation (CEC 2017).
+
+Repository
+> https://github.com/nclab/proof.generator
+
+[Back to TOC](#table-of-contents)
 
 #### starcraft.asga
 
