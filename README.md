@@ -23,7 +23,7 @@ Materials
 #### proof.generator
 
 Paper
-> Huang, S.-Y. & Chen, Y.-p. (2017). Proving Theorems by Using Evolutionary Search with Human Involvement. Submitted to <i>2017 IEEE Congress on Evolutionary Computation (CEC 2017).</i>
+> Huang, S.-Y. & Chen, Y.-p. (2017). Proving Theorems by Using Evolutionary Search with Human Involvement. Accepted by <i>2017 IEEE Congress on Evolutionary Computation (CEC 2017).</i>
 
 Repository
 > https://github.com/nclab/proof.generator
@@ -33,7 +33,7 @@ Repository
 #### starcraft.asga
 
 Paper
-> Hsu, W.-L., & Chen, Y.-p. (2016). Learning to Select Actions in StarCraft with Genetic Algorithms. Accepted by <i>2016 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2016)</i>.
+> Hsu, W.-L., & Chen, Y.-p. (2016). Learning to Select Actions in StarCraft with Genetic Algorithms. In <i>Proceedings of 2016 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2016)</i> (pp. 270-277). doi: 10.1109/TAAI.2016.7880180.
 
 Repository
 > https://github.com/nclab/starcraft.asga
