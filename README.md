@@ -9,6 +9,7 @@ Table of Contents
 -----------------
 
 - [Materials](#materials)
+    - [ec.composer](#ec.composer)
     - [proof.generator](#proof.generator)
     - [starcraft.asga](#starcraft.asga)
     - [ea.prover](#ea.prover)
@@ -19,6 +20,16 @@ Table of Contents
 
 Materials
 ---------
+
+#### ec.composer
+
+Paper
+> Chang, C.-y. & Chen, Y.-p. (2019). Fusing creative operations into evolutionary computation for composition: From a composer's perspective. In <i>Proceedings of 2019 IEEE Congress on Evolutionary Computation (CEC 2019)</i> (pp. 2114-2121).
+
+Repository
+> https://github.com/nclab/ec.composer
+
+[Back to TOC](#table-of-contents)
 
 #### proof.generator
 
