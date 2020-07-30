@@ -46,7 +46,7 @@ Repository
 #### ec.composer
 
 Paper
-> Chang, C.-y. & Chen, Y.-p. (2019). Fusing creative operations into evolutionary computation for composition: From a composer's perspective. In <i>Proceedings of 2019 IEEE Congress on Evolutionary Computation (CEC 2019)</i> (pp. 2114-2121). doi: [10.1145/3319619.3322004](http://dx.doi.org/10.1145/3319619.3322004).
+> Chang, C.-y. & Chen, Y.-p. (2019). Fusing creative operations into evolutionary computation for composition: From a composer's perspective. In <i>Proceedings of 2019 IEEE Congress on Evolutionary Computation (CEC 2019)</i> (pp. 2114-2121). doi: [10.1109/CEC.2019.8790335](http://dx.doi.org/10.1109/CEC.2019.8790335).
 
 Repository
 > https://github.com/nclab/ec.composer
