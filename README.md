@@ -9,6 +9,8 @@ Table of Contents
 -----------------
 
 - [Materials](#materials)
+    - [cf.composer](#cf.composer)
+    - [ga.shrinker](#ga.shrinker)
     - [ec.composer](#ec.composer)
     - [proof.generator](#proof.generator)
     - [starcraft.asga](#starcraft.asga)
@@ -20,6 +22,26 @@ Table of Contents
 
 Materials
 ---------
+
+#### cf.composer
+
+Paper
+> Chang, C.-y., & Chen, Y.-p. (2020). AntsOMG: A Framework Aiming to Automate Creativity and Intelligent Behavior with a Showcase on Cantus Firmus Composition and Style Development. <i>Electronics</i>, 9(8), 1212. doi: [10.3390/electronics9081212](http://dx.doi.org/10.3390/electronics9081212).
+
+Repository
+> https://github.com/nclab/cf.composer
+
+[Back to TOC](#table-of-contents)
+
+#### ga.shrinker
+
+Paper
+> Lo, F.-Y., Chen, C.-H., & Chen, Y.-p. (2020). Shrinking Counterexamples in Property-Based Testing with Genetic Algorithms. In <i>Proceedings of 2020 IEEE Congress on Evolutionary Computation (CEC 2020)</i>.
+
+Repository
+> https://github.com/nclab/ga.shrinker
+
+[Back to TOC](#table-of-contents)
 
 #### ec.composer
 
