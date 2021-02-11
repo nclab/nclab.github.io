@@ -9,13 +9,13 @@ Table of Contents
 -----------------
 
 - [Materials](#materials)
-    - [cf.composer](#cf.composer)
-    - [ga.shrinker](#ga.shrinker)
-    - [ec.composer](#ec.composer)
-    - [proof.generator](#proof.generator)
-    - [starcraft.asga](#starcraft.asga)
-    - [ea.prover](#ea.prover)
-    - [ca_ea.aip](#ca_ea.aip)
+    - [cf.composer](#cfcomposer)
+    - [ga.shrinker](#gashrinker)
+    - [ec.composer](#eccomposer)
+    - [proof.generator](#proofgenerator)
+    - [starcraft.asga](#starcraftasga)
+    - [ea.prover](#eaprover)
+    - [ca_ea.aip](#ca_eaaip)
     - [pso.evac](#psoevac)
 
 ----------
