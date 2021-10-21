@@ -9,6 +9,8 @@ Table of Contents
 -----------------
 
 - [Materials](#materials)
+    - [iccc-21](#iccc-21)
+    - [om.composer](#omcomposer)
     - [cf.composer](#cfcomposer)
     - [ga.shrinker](#gashrinker)
     - [ec.composer](#eccomposer)
@@ -22,6 +24,27 @@ Table of Contents
 
 Materials
 ---------
+
+#### iccc-21
+
+Paper
+> Chang, C.-y., & Chen, Y.-p. (2021). In the Name of Creativity: En Route to Inspiring Machines. In <i>Proceedings of the 12th International
+Conference on Computational Creativity (ICCC &rsquo;21)</i> (pp. 400-404). URL: [https://e.cctcc.art/iccc-2021](https://e.cctcc.art/iccc-2021).
+
+Repository
+> https://github.com/nclab/iccc-21
+
+[Back to TOC](#table-of-contents)
+
+#### om.composer
+
+Paper
+> Chang, C.-y., & Chen, Y.-p. (2021). Contrapuntal composition and autonomous style development of organum motets by using AntsOMG. In <i>Proceedings of 2021 IEEE Congress on Evolutionary Computation (CEC 2021)</i> (pp. 2023-2030). doi: [10.1109/CEC45853.2021.9504881](http://dx.doi.org/10.1109/CEC45853.2021.9504881).
+
+Repository
+> https://github.com/nclab/om.composer
+
+[Back to TOC](#table-of-contents)
 
 #### cf.composer
 
