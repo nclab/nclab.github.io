@@ -9,6 +9,7 @@ Table of Contents
 -----------------
 
 - [Materials](#materials)
+    - [cpts2.composer](#cpts2composer)
     - [iccc-21](#iccc-21)
     - [om.composer](#omcomposer)
     - [cf.composer](#cfcomposer)
@@ -24,6 +25,16 @@ Table of Contents
 
 Materials
 ---------
+
+#### cpts2.composer
+
+Paper
+> Chang, C.-y., & Chen, Y.-p. (2023). Investigating style forming and twisting by adapting AntsOMG for composing second species counterpoint. In <i>Proceedings of 2023 IEEE Congress on Evolutionary Computation (CEC 2023)</i> (pp. 1-8). doi: [10.1109/CEC53210.2023.10253974](http://dx.doi.org/10.1109/CEC53210.2023.10253974).
+
+Repository
+> https://github.com/nclab/cpts2.composer
+
+[Back to TOC](#table-of-contents)
 
 #### iccc-21
 
