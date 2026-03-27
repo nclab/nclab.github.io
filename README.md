@@ -9,6 +9,8 @@ Table of Contents
 -----------------
 
 - [Materials](#materials)
+    - [iirf-evrp](#iirf-evrp)
+    - [vlga.composer](#vlgacomposer)
     - [cpts2.composer](#cpts2composer)
     - [iccc-21](#iccc-21)
     - [om.composer](#omcomposer)
@@ -25,6 +27,26 @@ Table of Contents
 
 Materials
 ---------
+
+#### iirf-evrp
+
+Paper
+> Lin, T.-H., & Chen, Y.-p. (2026). Solving Electric Vehicle Routing by Iterative Instance Refinement Framework. In <i>Proceedings of 2026 IEEE Congress on Evolutionary Computation (CEC 2026)</i>.
+
+Repository
+> https://github.com/nclab/iirf-evrp
+
+[Back to TOC](#table-of-contents)
+
+#### vlga.composer
+
+Paper
+> Chang, C.-y., & Chen, Y.-p. (2024). Revisiting the Formation of Harmonic Progressions from the Perspective of Voice-Leading with Evolutionary Computation. In <i>Proceedings of 2024 IEEE Congress on Evolutionary Computation (CEC 2024)</i>. doi: [10.1109/CEC60901.2024.10612200](http://dx.doi.org/10.1109/CEC60901.2024.10612200).
+
+Repository
+> https://github.com/nclab/vlga.composer
+
+[Back to TOC](#table-of-contents)
 
 #### cpts2.composer
 
